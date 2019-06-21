@@ -1,4 +1,4 @@
-# Python-Cheat-Sheet-As-Jupyter-Notebooks
+# Python-Cheat-Sheets-As-Jupyter-Notebooks
 This repository contains Jupyter notebooks that are my cheat sheets for the usage of some common used libraries, e.g. NumPy.
 
 * NumPy
